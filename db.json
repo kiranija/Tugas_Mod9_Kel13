@@ -1,0 +1,29 @@
+{
+    "user": [
+      {
+        "id": "1",
+        "name": "Kirani",
+        "password": "123",
+        "email": "kirani@gmail.com"
+      },
+      {
+        "id": "2",
+        "name": "Ayuk",
+        "password": "123",
+        "email": "ayuk@gmail.com"
+      },
+      {
+        "id": "3",
+        "name": "Sachiko",
+        "password": "123",
+        "email": "sachiko@gmail.com"
+      },
+      {
+        "id": "4",
+        "name": "Yoga",
+        "password": "123",
+        "email": "yoga@gmail.com"
+      }
+    ]
+
+}
